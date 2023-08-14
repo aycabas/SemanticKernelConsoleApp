@@ -1,6 +1,6 @@
 # Semantic Kernel Console App
 
-This .NET Console app demonstrates how to use the Microsoft Graph API skills with the Semantic Kernel. This app read the text document from OneDrive and sends a summary of the document as an email, creates a reminder task on ToDo and event on Calendar.
+This .NET Console app demonstrates how to use the Microsoft Graph API skills with the Semantic Kernel. This app reads the text document from OneDrive and sends a summary of the document as an email, creates a reminder task on ToDo and event on Calendar using Microsoft Graph Skills.
 
 ## Setup
 
