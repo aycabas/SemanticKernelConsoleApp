@@ -26,11 +26,6 @@ Example `appsettings.Development.json`:
     "ClientId": "YOUR_APPLICATION_CLIENTID",
     "RedirectUri": "http://localhost"
   },
-  "OneDrivePathToFile": "Documents/MyFile.txt",
-  "OpenAI": {
-    "ServiceId": "gpt-3.5-turbo",
-    "ApiKey": "YOUR_OPENAPI_KEY"
-  },
   "AzureOpenAI": {
     "ServiceId": "gpt-35-turbo",
     "DeploymentName": "gpt-35-turbo",
